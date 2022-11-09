@@ -1,0 +1,1 @@
+config = {'base_url': 'http://pulse-rest-testing.herokuapp.com'}
